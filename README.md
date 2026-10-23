@@ -3246,6 +3246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
+- [Building Permits API](https://apify.com/gaelasao/planning-data-au-nz-fr) `https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr`
+  [![Building Permits API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api)
+  🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
