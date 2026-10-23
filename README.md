@@ -2525,6 +2525,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   [![InsightfulPipe MCP connector](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe/badges/score.svg)](https://glama.ai/mcp/connectors/com.insightfulmcp.main/insightful-pipe)
   🔐 - Google Ads, Meta Ads, GA4, LinkedIn, TikTok and 45 more marketing platforms, with each action switched per account.
 
+- [Keyword Research API](https://apify.com/gaelasao/keyword-research-api) `https://mcp.apify.com/?tools=gaelasao/keyword-research-api`
+  [![Keyword Research API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/keyword-research-api)
+  🔐 - Google search volume, CPC, difficulty and intent in every country, keyword ideas, and the keywords any domain ranks for.
+
 - [pSEO Engine](https://quantumcx.net/pseo-engine) `https://pseo.quantumcx.net/api/agent/mcp`
   [![pSEO Engine MCP connector](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine/badges/score.svg)](https://glama.ai/mcp/connectors/net.quantumcx/pseo-engine)
   🔓 - Programmatic SEO: research, generate, audit and publish landing pages at scale; reads are free.
@@ -3168,6 +3172,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Brainy Prices](https://prices.brainy.ae/developers.html) `https://prices.brainy.ae/mcp/v2`
   [![Brainy Prices MCP connector](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices/badges/score.svg)](https://glama.ai/mcp/connectors/ae.brainy/grocery-prices)
   🔓 - UAE living costs: KHDA fees, DLD rents, fuel, utilities, telecom and relocation, with dated sources.
+- [Building Permits API](https://apify.com/gaelasao/planning-data-au-nz-fr) `https://mcp.apify.com/?tools=gaelasao/planning-data-au-nz-fr`
+  [![Building Permits API MCP connector](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.gaelasao/building-permits-api)
+  🔐 - Official building permits and planning applications for France, NSW Australia and Far North NZ, with sources.
 - [Casafari Comparables](https://developers.casafari.com/docs/comparables-valuation) `https://platform.casafari.com/mcp/comparables`
   [![Casafari Comparables MCP connector](https://glama.ai/mcp/connectors/com.casafari/comparables/badges/score.svg)](https://glama.ai/mcp/connectors/com.casafari/comparables)
   🔐 - Comparable properties and price estimates for a home in Europe, by address, coordinates or Spanish cadastral reference.
